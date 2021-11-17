@@ -9,16 +9,16 @@ head:
     backgroundpic : "img/bg.jpg"
 
 Intro:
-    name: MICCALL
+    name: Esther
     slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
     HeadButton: MICCALL
 
 Nav:
-    Home_name: 主页
+    Home_name: Homepage
     is_use_categories : true 
-    categories_name: 分类
+    categories_name: Category
     is_use_archives : false
-    archives_name: 归档
+    archives_name: Archive
     
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
