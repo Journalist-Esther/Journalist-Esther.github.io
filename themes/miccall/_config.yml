@@ -11,11 +11,11 @@ head:
 Intro:
     name: Esther
     slogan: "I have 10 years of media study, internship and working experience <br/> I travel all around the world to do stories relevant to global develpment <br/> I am passionate about working for the UN"
-    HeadButton: MICCALL
+    HeadButton: ESTHER TIAN
 
 Nav:
     Home_name: Homepage
-    is_use_categories : true 
+    is_use_categories : tTIAN
     categories_name: Category
     is_use_archives : false
     archives_name: Archive
