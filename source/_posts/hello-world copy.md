@@ -5,7 +5,7 @@ tags:
 - test
 - test2 (可选)
 categories: Algorithm # 分类
-thumbnail: https://i.loli.net/2021/11/18/XJigNBKZ2WqOpYH.jpg # 略缩图
+thumbnail: https://i.loli.net/2021/11/28/9Za7wdtBghEiTFY.jpg # 略缩图
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 ![天空](https://i.loli.net/2021/11/28/9Za7wdtBghEiTFY.jpg)
