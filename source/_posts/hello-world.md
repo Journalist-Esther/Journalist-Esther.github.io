@@ -1,43 +1,9 @@
 ---
-title: Hello World
+title: 中国抗疟方案在非洲落地 
 date: 2021/11/18 13:48:25  # 文章发表时间
 tags:
 - test
 categories: News Reports # 分类
-thumbnail: https://i.loli.net/2021/11/18/XJigNBKZ2WqOpYH.jpg # 略缩图
+thumbnail: https://img.caixin.com/2018-09-01/1535772894052626_480_320.jpg # 略缩图
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick StarN
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate jjhjh
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+[中国抗疟方案在非洲落地](https://weekly.caixin.com/2018-09-01/101321329.html)
