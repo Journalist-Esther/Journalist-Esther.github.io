@@ -28,7 +28,7 @@ Nav:
         
     pages:
         简历: 
-            link: "/about/"
+            link: "https://journalist-esther.github.io/2021/11/18/Resume/"
         团队 :
             link: "/group/"
         图库 :
