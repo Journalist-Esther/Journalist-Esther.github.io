@@ -33,7 +33,7 @@ Nav:
             link: "/group/"
         图库 :
             link: "/gallery/"
-        标签:
+        我和UN的故事:
             link: "/tag/"
         #自定义标签名
         #   link：“路径”
