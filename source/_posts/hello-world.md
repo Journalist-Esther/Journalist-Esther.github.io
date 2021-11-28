@@ -1,4 +1,4 @@
----
+--
 title: Hello World
 date: 2021/11/18 13:48:25  # 文章发表时间
 tags:
@@ -30,7 +30,7 @@ More info: [Server](https://hexo.io/docs/server.html)
 ### Generate static files
 
 ``` bash
-$ hexo generate
+$ hexo generate jjhjh
 ```
 
 More info: [Generating](https://hexo.io/docs/generating.html)
