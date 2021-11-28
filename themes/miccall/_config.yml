@@ -15,7 +15,7 @@ Intro:
 
 Nav:
     Home_name: Homepage
-    is_use_categories : tTIAN
+    is_use_categories : true
     categories_name: Category
     is_use_archives : false
     archives_name: Archive
